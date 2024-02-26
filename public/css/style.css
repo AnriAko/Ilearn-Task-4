@@ -1,0 +1,44 @@
+button {
+  height: 40px;
+  padding: 5px;
+}
+button img {
+  height: 100%;
+}
+
+header {
+  margin-bottom: 20px;
+}
+
+.tools {
+  margin-bottom: 20px;
+}
+
+.log-in-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+form {
+  padding: 28px;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 2px solid black;
+  border-radius: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+form .submit-btn {
+  max-width: 100px;
+}
+form .form-group {
+  max-width: 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 20px;
+}/*# sourceMappingURL=style.css.map */
